@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "titulo": "Timezone",
+    "artista": "Maneskin",
+    "tono": "C"
+  },
+  {
+    "id": "2",
+    "titulo": "Please Please Please",
+    "artista": "Sabrina Carpenter",
+    "tono": "Bm"
+  },
+  {
+    "id": "9105",
+    "titulo": "Mi muñeca me habló",
+    "artista": "31 Minutos",
+    "tono": "D"
+  },
+  {
+    "id": 6089,
+    "titulo": "Toxic",
+    "artista": "Britney Spears",
+    "tono": "A"
+  }
+]
